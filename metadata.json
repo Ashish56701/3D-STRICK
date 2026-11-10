@@ -1,0 +1,6 @@
+{
+  "name": "3D STRIKE: ULTIMATE SURVIVAL",
+  "description": "An intense 3D third-person sci-fi shooter and survival game featuring robot combat, wave survival, dynamic environments, customizable loadouts, and responsive mobile and desktop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
